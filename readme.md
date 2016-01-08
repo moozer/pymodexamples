@@ -1,7 +1,7 @@
 libpythonexamples
 ==================
 
-This is a collection of simple examples on how to use python libraries (or modules or whatever else you would like to call it).
+This is a collection of simple examples on how to use python modules (or libraries or whatever else you would like to call it).
 
 YAML
 -----
