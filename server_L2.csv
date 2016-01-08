@@ -1,0 +1,4 @@
+Name	Interface	RemoteDevice	RemoteInterface
+web01	eth0	Switch01	1
+web02	eth0	Switch01	4
+web03	eth0	Switch01	6
