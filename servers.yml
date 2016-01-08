@@ -1,0 +1,15 @@
+# this a test yaml file
+
+web01:
+  host_id: 101
+  subnet: SRV
+  
+web02:
+  host_id: 101
+  subnet: SRV
+  
+web03:
+  host_id: 101
+  subnet: SRV
+  
+ 
