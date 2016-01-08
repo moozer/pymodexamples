@@ -1,6 +1,6 @@
 import csv
 
-outputfile = "csvwrite.csv"
+outputfile = "test_csvwrite.csv"
 
 data = [["web01", 101, "SRV"],
 		["web02", 102, "SRV"],
@@ -23,7 +23,7 @@ print ""
 #
 # output of csv writer using headers
 #
-outputfile_dict = "csvwrite_dict.csv"
+outputfile_dict = "test_csvwrite_dict.csv"
 
 data = [{ "name": "web01", "id": 101, "LAN": "SRV"}, 
 		{ "name": "web02", "id": 102, "LAN": "SRV"},
